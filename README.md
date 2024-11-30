@@ -1,2 +1,2 @@
 # java-demo-programs
-this conatin some Java Demo Programs
+This conatin some Java Demo Programs that every one should know at the beginning.
